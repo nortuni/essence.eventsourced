@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nortuni\\Essence\\EventSourced": "src/"
+            "Nortuni\\Essence\\EventSourced\\": "src/"
         }
     },
     "minimum-stability": "dev",
