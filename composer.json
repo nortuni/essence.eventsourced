@@ -1,0 +1,13 @@
+{
+    "name": "nortuni/essence.eventsourced",
+    "description": "An eventsourced version of the Essence library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stijn Vannieuwenhuyse",
+            "email": "stijn@vannieuwenhuyse.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
