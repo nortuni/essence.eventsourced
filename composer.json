@@ -8,6 +8,13 @@
             "email": "stijn@vannieuwenhuyse.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Nortuni\\Essence\\EventSourced": "src/"
+        }
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "nortuni/essence": "dev-master"
+    }
 }
